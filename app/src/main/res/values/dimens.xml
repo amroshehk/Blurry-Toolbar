@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Basic Margins and paddings  -->
+    <dimen name="margin_XSmall">2dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="margin_large">14dp</dimen>
+    <dimen name="margin_XLarge">20dp</dimen>
+    <dimen name="margin_XXLarge">36dp</dimen>
+    <dimen name="margin_XXXLarge">44dp</dimen>
+
+    <dimen name="padding_XSmall">1dp</dimen>
+    <dimen name="padding_small">2dp</dimen>
+    <dimen name="padding_medium">6dp</dimen>
+    <dimen name="padding_large">14dp</dimen>
+</resources>
