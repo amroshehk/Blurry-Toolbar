@@ -18,11 +18,8 @@ This Android project demonstrates how to implement a blurry toolbar effect using
 
 
 ## Screen Record:
-<video width="320" height="240" controls>
-<source src="https://github.com/user-attachments/assets/a80a695b-ae0c-4f35-8276-7fb7dcd6d395" type="video/mp4">
+<video src="https://github.com/user-attachments/assets/de4a1681-ce84-4a0d-ae9b-c5eaeca7a354" alt="" width="300" height="600" controls>
 </video>
-
-
 
 
 ## License
